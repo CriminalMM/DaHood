@@ -1,0 +1,3 @@
+
+--Aimlock keybind is Q
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ChaseSYNX/Scripts/main/SynxV_Aimlock"))();
